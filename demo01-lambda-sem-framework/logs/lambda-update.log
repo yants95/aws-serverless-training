@@ -1,0 +1,21 @@
+{
+    "FunctionName": "hello-cli",
+    "FunctionArn": "arn:aws:lambda:us-east-1:043542657444:function:hello-cli:1",
+    "Runtime": "nodejs12.x",
+    "Role": "arn:aws:iam::043542657444:role/lambda-exemplo",
+    "Handler": "index.handler",
+    "CodeSize": 332,
+    "Description": "",
+    "Timeout": 3,
+    "MemorySize": 128,
+    "LastModified": "2021-02-05T23:48:17.411+0000",
+    "CodeSha256": "OOTOqZ1KRnQ2498gv+QPHcoy9ok2udG9eqNJ49Ai1p4=",
+    "Version": "1",
+    "TracingConfig": {
+        "Mode": "PassThrough"
+    },
+    "RevisionId": "4e8f60fd-5843-4240-b520-dab4307c8771",
+    "State": "Active",
+    "LastUpdateStatus": "Successful",
+    "PackageType": "Zip"
+}

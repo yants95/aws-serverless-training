@@ -1,0 +1,14 @@
+{
+    "Policy": {
+        "PolicyName": "process-data-policy",
+        "PolicyId": "ANPAQUI2YHGSDMWNTDBJF",
+        "Arn": "arn:aws:iam::043542657444:policy/process-data-policy",
+        "Path": "/",
+        "DefaultVersionId": "v1",
+        "AttachmentCount": 0,
+        "PermissionsBoundaryUsageCount": 0,
+        "IsAttachable": true,
+        "CreateDate": "2021-02-16T13:41:55+00:00",
+        "UpdateDate": "2021-02-16T13:41:55+00:00"
+    }
+}

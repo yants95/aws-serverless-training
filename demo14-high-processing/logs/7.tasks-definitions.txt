@@ -1,0 +1,5 @@
+{
+    "taskDefinitionArns": [
+        "arn:aws:ecs:us-east-1:043542657444:task-definition/process-data:1"
+    ]
+}
